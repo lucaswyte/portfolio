@@ -11,7 +11,7 @@ img,
 .plan,
 .card,
 .item-wrapper {
-  border-radius: 2rem !important;
+  border-radius: 0 !important;
 }
 .video-wrapper {
   overflow: hidden;
@@ -2716,7 +2716,7 @@ a {
 }
 .cid-tYKeR7fVh5 .card-title,
 .cid-tYKeR7fVh5 .iconfont-wrapper {
-  color: #ffffff;
+  color: #2e6dfa;
   text-align: left;
 }
 .cid-tYKeR7fVh5 .card-text {
