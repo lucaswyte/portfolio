@@ -73,7 +73,7 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -2434,7 +2434,7 @@
             },
             ".mbr-section-subtitle": {
               "text-align": "center",
-              "color": "#000000"
+              "color": "#ffc000"
             }
           },
           "_name": "social01",
