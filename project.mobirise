@@ -3061,7 +3061,8 @@
               "text-align": "left"
             },
             ".card-text": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "right"
             },
             ".mbr-section-title": {
               "color": "#000000"
