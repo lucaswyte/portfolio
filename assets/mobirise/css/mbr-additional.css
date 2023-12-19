@@ -11,7 +11,7 @@ img,
 .plan,
 .card,
 .item-wrapper {
-  border-radius: 0 !important;
+  border-radius: 2rem !important;
 }
 .video-wrapper {
   overflow: hidden;
@@ -601,9 +601,6 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 .form-control {
   font-family: 'Open Sans', sans-serif;
   font-size: 1.4rem;
@@ -2726,7 +2723,7 @@ a {
   color: #000000;
 }
 .cid-tYKeR7fVh5 .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-tYKeR7fVh5 .mbr-section-subtitle {
   color: #000000;
@@ -2802,5 +2799,5 @@ a {
   overflow: hidden;
 }
 .cid-tYivQt3nW5 .media-container-row .mbr-text {
-  color: #ffffff;
+  color: #ffc000;
 }
