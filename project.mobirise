@@ -73,7 +73,7 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -3057,7 +3057,7 @@
               "align-items": "center"
             },
             ".card-title, .iconfont-wrapper": {
-              "color": "#2e6dfa",
+              "color": "#ffffff",
               "text-align": "left"
             },
             ".card-text": {
