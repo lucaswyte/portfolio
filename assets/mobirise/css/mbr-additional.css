@@ -29,11 +29,11 @@ body {
 }
 .display-2 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 4rem;
+  font-size: 3.4rem;
   line-height: 1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 5rem;
+  font-size: 4.25rem;
 }
 .display-4 {
   font-family: 'Open Sans', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.1 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.72rem;
+    font-size: calc( 1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 1.04rem;
@@ -2569,6 +2569,9 @@ a {
 .cid-tYdx4oXoHa .mbr-section-subtitle {
   color: #ffc000;
 }
+.cid-tYdx4oXoHa .mbr-text {
+  color: #000000;
+}
 .cid-tYdxjzdsA5 {
   padding-top: 1rem;
   padding-bottom: 0rem;
@@ -2593,6 +2596,9 @@ a {
 .cid-tYdxjzdsA5 .mbr-section-subtitle,
 .cid-tYdxjzdsA5 .mbr-text {
   text-align: center;
+}
+.cid-tYdxjzdsA5 .mbr-text {
+  color: #000000;
 }
 .cid-tYdxw1uG6k {
   padding-top: 1rem;
@@ -2619,6 +2625,9 @@ a {
 .cid-tYdxw1uG6k .mbr-text {
   text-align: center;
 }
+.cid-tYdxw1uG6k .mbr-text {
+  color: #000000;
+}
 .cid-tYdyqtfapE {
   padding-top: 1rem;
   padding-bottom: 3rem;
@@ -2643,6 +2652,9 @@ a {
 .cid-tYdyqtfapE .mbr-section-subtitle,
 .cid-tYdyqtfapE .mbr-text {
   text-align: center;
+}
+.cid-tYdyqtfapE .mbr-text {
+  color: #000000;
 }
 .cid-tYKeR7fVh5 {
   padding-top: 3rem;
