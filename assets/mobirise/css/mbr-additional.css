@@ -2699,8 +2699,8 @@ a {
 }
 .cid-tYjPATwIWW {
   padding-top: 1rem;
-  padding-bottom: 3rem;
-  background-color: #27c0dc;
+  padding-bottom: 0rem;
+  background-color: #12487c;
 }
 .cid-tYjPATwIWW img,
 .cid-tYjPATwIWW .item-img {
@@ -2717,14 +2717,6 @@ a {
   .cid-tYjPATwIWW .item {
     margin-bottom: 1rem;
   }
-}
-.cid-tYjPATwIWW .row {
-  margin-left: 0;
-  margin-right: 0;
-}
-.cid-tYjPATwIWW .item {
-  padding: 0;
-  margin: 0;
 }
 .cid-tYjPATwIWW .item-wrapper {
   position: relative;
