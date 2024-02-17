@@ -73,7 +73,7 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -3168,8 +3168,8 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#000000",
-              "text-align": "right"
+              "color": "#ffffff",
+              "text-align": "center"
             },
             ".card-title, .card-box": {
               "text-align": "left",
