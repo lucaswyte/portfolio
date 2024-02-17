@@ -1465,8 +1465,8 @@ a {
 }
 .cid-u4uNkbE3yj .mbr-text,
 .cid-u4uNkbE3yj .mbr-section-btn {
-  color: #000000;
-  text-align: right;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-u4uNkbE3yj .card-title,
 .cid-u4uNkbE3yj .card-box {
@@ -2207,8 +2207,8 @@ a {
 }
 .cid-u4uLiLsqT6 .mbr-text,
 .cid-u4uLiLsqT6 .mbr-section-btn {
-  color: #000000;
-  text-align: right;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-u4uLiLsqT6 .card-title,
 .cid-u4uLiLsqT6 .card-box {
@@ -2752,6 +2752,49 @@ a {
 }
 .cid-tYjPATwIWW .item-title {
   text-align: center;
+}
+.cid-u4v0BDOSvL {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #fbbf14;
+}
+.cid-u4v0BDOSvL .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u4v0BDOSvL .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u4v0BDOSvL .card-wrapper {
+  background: #000000;
+}
+@media (max-width: 767px) {
+  .cid-u4v0BDOSvL .card-wrapper {
+    padding: 1.5rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-u4v0BDOSvL .card-wrapper {
+    padding: 2.25rem;
+  }
+}
+.cid-u4v0BDOSvL .mbr-text,
+.cid-u4v0BDOSvL .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-u4v0BDOSvL .card-title,
+.cid-u4v0BDOSvL .card-box {
+  text-align: left;
+  color: #000000;
+}
+.cid-u4v0BDOSvL .mbr-section-subtitle {
+  color: #ffffff;
 }
 .cid-tYivQt3nW5 {
   padding-top: 15px;
